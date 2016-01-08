@@ -1,0 +1,2 @@
+JAVA_JAR_FILE=SampleApp.jar
+AB_JOLOKIA_AUTH_OPENSHIFT=false
